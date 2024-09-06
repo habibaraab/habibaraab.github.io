@@ -33,12 +33,12 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/habibaraab/Resturant_web
+    git clone https://github.com/habibaraab/habibaraab.github.io
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd Resturant_web
+    cd habibaraab.github.io
     ```
 
 3. Install the dependencies:
