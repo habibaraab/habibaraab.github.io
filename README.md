@@ -4,7 +4,7 @@
 
 Welcome to Resturant the Website! This project is designed to provide users with information about various types of pizzas, recipes, and where to find the best food restaurants.
 
-![Pizza Image](5411533.jpg"Landing page")
+![Pizza Image](screenshots/5411533.jpg "Pizza Resturant")
 
 ## Table of Contents
 
